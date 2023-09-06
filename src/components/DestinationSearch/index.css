@@ -1,0 +1,25 @@
+/* Write your CSS here */
+.input-container {
+  display: flex;
+  background-color: #f1f5f9;
+  width: 220px;
+  height: 40px;
+  border-radius: 12px;
+  margin-left: 540px;
+}
+.input-el {
+  color: black;
+  border: none;
+  background-color: #f1f5f9;
+}
+.ul-container {
+  list-style-type: none;
+  flex-wrap: wrap;
+  display: flex;
+}
+.container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+}
